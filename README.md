@@ -18,4 +18,4 @@ All the test data and train data were read and merged into one dataset. Each var
 
 Using the combined tidy dataset, the average of each variable for each activity and subject was generated. 
 
-Finallay the tidy dataset has been converted to txt using the write.table function with the row names set to FALSE. 
+Finally the tidy dataset has been converted to txt using the write.table function with the row names set to FALSE. 
